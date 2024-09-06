@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\N555_Motor_Driver\N555_driver_card_designe\N555_Driver_Card_Designe_Nasýf_Can_PELTEK\N555_Driver_Card_Designe.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

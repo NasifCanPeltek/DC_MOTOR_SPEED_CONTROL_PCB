@@ -1,0 +1,188 @@
+*************************************************************
+FileName = N555_Driver_Card_Designe.GBR
+AutoAperture = True
+*************************************************************
+Generating : Keep-Out Layer
+      File : N555_Driver_Card_Designe.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : N555_Driver_Card_Designe.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : N555_Driver_Card_Designe.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : N555_Driver_Card_Designe.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : N555_Driver_Card_Designe.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : N555_Driver_Card_Designe.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : N555_Driver_Card_Designe.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : N555_Driver_Card_Designe.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : N555_Driver_Card_Designe.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : N555_Driver_Card_Designe.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : N555_Driver_Card_Designe.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D41
+*************************************************************
+
